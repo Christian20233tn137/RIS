@@ -1,6 +1,7 @@
 package utez.edu.mx.RIS.turno.model;
 
 import jakarta.persistence.*;
+import utez.edu.mx.RIS.doctor.model.Doctor;
 
 import java.util.Date;
 
